@@ -1,0 +1,14 @@
+{
+  "name": "social_proof",
+  "version": "1.0.0",
+  "description": "A practice project from frontend masters.",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Glyn Hiscock",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
